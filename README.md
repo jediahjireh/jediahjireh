@@ -23,7 +23,7 @@ The realm of technology is ever-evolving and I'm committed to staying at the for
 The first computer "bug" was an actual bug - a moth to be precise.
 
 ### 📧 Let's Connect:
-I am always eager to connect with like-minded individuals, organisations and mentors who share a passion for using technology for the greater good. Reach out to me via [LinkedIn messaging](www.linkedin.com/in/jediahjireh) or email me at [jediahnaicker@gmail.com](mailto:jediahnaicker@gmail.com).
+I am always eager to connect with like-minded individuals, organisations and mentors who share a passion for using technology for the greater good. Reach out to me via [LinkedIn messaging](https://www.linkedin.com/in/jediahjireh/) or email me at [jediahnaicker@gmail.com](mailto:jediahnaicker@gmail.com).
 
 Together, we are stronger.
 
