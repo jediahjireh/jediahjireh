@@ -8,7 +8,22 @@ Note that all of my projects are still works in progress - there's always room f
 From an early age, I have immersed myself into exploring the world of technology and the endless possibilities that it has to offer. It all started with a fondness for problem-solving and expanded into a deep-rooted passion ignited by the potential of technology to effect meaningful change in society.
 
 ### 🔧 Tech Toolbox:
-I am currently enrolled into an immersive Software Engineering and Full Stack Web Development bootcamp at HyperionDev. Since multilingual abilities are always impressive, let me mention the languages and technologies that I will soon be fluent in: Python, CSS, SCSS, JavaScript, Java, PHP, advanced HTML, Git and GitHub version control, as well as the MERN full stack (MongoDB, Express, React.js, and Node.js). I have also had experience with Delphi 2010 during my high school years.
+- JavaScript
+- CSS/SCSS,
+- HTML
+- Java
+- MySQL
+- Git and GitHub version control,
+- MERN Stack (MongoDB, Express, React.js, Node.js)
+- Mongoose
+- Vite.js
+- PHP
+- Laravel
+- WordPress
+- Technical Documentation
+- Delphi 2010 
+
+I am currently self-learning Next.js and Tailwind CSS.
 
 ### 🌐 Debugging the World:
 The intersection of technology and social impact can drive meaningful change. Beyond building cutting-edge applications, my true passion lies in using my skills to combat social injustice. My primary goal is to leverage my skills in order to make a tangible difference in the world. My dream is to contribute my abilities to the fight against the heinous crime of human trafficking, using technology to empower anti-trafficking organisations and to aid them in the mission to rescue and support survivors.
