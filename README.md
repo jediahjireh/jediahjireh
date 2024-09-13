@@ -9,12 +9,12 @@ From an early age, I have immersed myself into exploring the world of technology
 
 ### 🔧 Tech Toolbox:
 - JavaScript
-- CSS/SCSS,
+- CSS/SCSS
 - HTML
 - Java
 - MySQL
 - Git and GitHub version control,
-- MERN Stack (MongoDB, Express, React.js, Node.js)
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - Mongoose
 - Vite.js
 - PHP
@@ -22,8 +22,9 @@ From an early age, I have immersed myself into exploring the world of technology
 - WordPress
 - Technical Documentation
 - Delphi 2010 
-
-I am currently self-learning Next.js and Tailwind CSS.
+- Next.js
+- Tailwind CSS
+- TypeScript
 
 ### 🌐 Debugging the World:
 The intersection of technology and social impact can drive meaningful change. Beyond building cutting-edge applications, my true passion lies in using my skills to combat social injustice. My primary goal is to leverage my skills in order to make a tangible difference in the world. My dream is to contribute my abilities to the fight against the heinous crime of human trafficking, using technology to empower anti-trafficking organisations and to aid them in the mission to rescue and support survivors.
