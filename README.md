@@ -1,4 +1,8 @@
 # 🔍 Search results for: @jediahjireh
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jediahjireh.visitor-badge)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jediahjireh&theme=bear&show_icons=true&hide_border=true&layout=compact)
 
 ## Hello, World!👋
 Welcome to my GitHub profile!  
