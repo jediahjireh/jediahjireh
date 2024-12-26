@@ -1,17 +1,26 @@
-# 🔍 Search results for: @jediahjireh
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1500&color=F73850&width=550&lines=%F0%9F%94%8D+Search+results+for%3A+%40jediahjireh)](https://git.io/typing-svg)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jediahjireh.visitor-badge)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jediahjireh&theme=bear&show_icons=true&hide_border=true&layout=compact)
 
-## Hello, World!👋
-Welcome to my GitHub profile!  
-Note that all of my projects are still works in progress - there's always room for improvement 🕹️.
+### ｡･ﾟﾟ･ welcome! ･ﾟﾟ･｡
 
-### 💡About Me:
-From an early age, I have immersed myself into exploring the world of technology and the endless possibilities that it has to offer. It all started with a fondness for problem-solving and expanded into a deep-rooted passion ignited by the potential of technology to effect meaningful change in society.
+I’m a multipotentialite with a knack for all things tech. I enjoy building – websites, crafts, ideas, self-esteem, you name it! My strong appreciation for art in all its forms has cultivated my keen eye for detail. I channel my creativity through problem-solving and have my critical thinking do the sculpting.
 
-### 🔧 Tech Toolbox:
+Professionally, I’m a full-stack developer. I’ve learnt and grown a lot in quite a short time. Every day, I tackle challenges that push my limits and I genuinely enjoy what I do! Software is my field of choice (please do not ask me to fix your WiFi router 0_0).
+
+Developing scalable applications with responsive and intuitive interfaces, through clean, maintainable code are my ABCs. Staying updated with industry trends to keep my skills sharp, testing, debugging, contributing to team workflows and processes? Second nature. 
+
+If there’s one thing that living and breathing development has taught me, it’s that setting aside time to just dance it out is a necessity 💃 (if Cristina and Meredith’s resilience hadn't been testament enough). That, coupled with setting aside a few minutes to read the docs, rather than spending days bug-fixing is guaranteed to save you from a crash-out here and there.
+
+My true passion lies in anti-trafficking work. Standing in the gap for those who require aid and then going on to assist in empowering them to stand strong is a mission that I ardently pursue. I hope to one day fully dedicate my time and skills to this.
+
+In short, I’m a developer with a heart for impactful work.
+
+👩‍💻ྀིྀིྀིྀིྀི happy coding!
+
+### ⚙｡･ tech toolbox ･ﾟﾟ⚙
 - JavaScript
 - CSS/SCSS
 - HTML
@@ -29,23 +38,21 @@ From an early age, I have immersed myself into exploring the world of technology
 - Next.js
 - Tailwind CSS
 - TypeScript
+- Angular
+- Python
+- FastAPI
+- Docker
+- Postman
+- Apidog
 
-### 🌐 Debugging the World:
-The intersection of technology and social impact can drive meaningful change. Beyond building cutting-edge applications, my true passion lies in using my skills to combat social injustice. My primary goal is to leverage my skills in order to make a tangible difference in the world. My dream is to contribute my abilities to the fight against the heinous crime of human trafficking, using technology to empower anti-trafficking organisations and to aid them in the mission to rescue and support survivors.
+### ☏ྀིྀིྀིྀི・∘ let's connect ∘・☏ྀིྀིྀིྀི
+If you’d like to connect or collaborate, don’t hesitate to reach out – I’d love to network!
 
-### 🔭 Looking Ahead:
-I strive to establish myself as a proficient software engineer/web developer in the industry. Whether it's creating innovative web solutions, optimising user experiences or developing scalable applications and platforms, I’m driven to bring about meaningful change. Technology, when wielded responsibly, can be a catalyst for social progress. It can serve as a powerful tool to empower the vulnerable, raise awareness and drive sustainable solutions.
+🌐: [jediah.dev](https://www.jediah.dev)
 
-### 💻 Lifelong Learner:
-The realm of technology is ever-evolving and I'm committed to staying at the forefront of advancements. Such as the journey of life, the journey of someone in the tech industry is anchored in continuous learning and development, which I embrace. It is an integral part of my growth as a developer and I welcome challenges that push me to constantly refine my craft.
+💌: [jediahnaicker@gmail.com](mailto:jediahnaicker@gmail.com)
 
-### 🫧 Fun Fact:
-The first computer "bug" was an actual bug - a moth to be precise.
-
-### 📧 Let's Connect:
-I am always eager to connect with like-minded individuals, organisations and mentors who share a passion for using technology for the greater good. Reach out to me via [LinkedIn messaging](https://www.linkedin.com/in/jediahjireh/) or email me at [jediahnaicker@gmail.com](mailto:jediahnaicker@gmail.com).
-
-Together, we are stronger.
+🔗: [@jediahjireh](https://www.linkedin.com/in/jediahjireh/)
 
 <!---
 jediahjireh/jediahjireh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
