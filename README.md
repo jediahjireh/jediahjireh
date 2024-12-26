@@ -4,7 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jediahjireh&theme=bear&show_icons=true&hide_border=true&layout=compact)
 
-### ｡･ﾟﾟ･ welcome! ･ﾟﾟ･｡
+### ｡⋅˚˚･ welcome! ･˚˚⋅｡
 
 I’m a multipotentialite with a knack for all things tech. I enjoy building – websites, crafts, ideas, self-esteem, you name it! My strong appreciation for art in all its forms has cultivated my keen eye for detail. I channel my creativity through problem-solving and have my critical thinking do the sculpting.
 
@@ -20,7 +20,7 @@ In short, I’m a developer with a heart for impactful work.
 
 👩‍💻ྀིྀིྀིྀིྀི happy coding!
 
-### ⚙｡･ tech toolbox ･ﾟﾟ⚙
+### ⚙｡･ tech toolbox ･˚˚⚙
 - JavaScript
 - CSS/SCSS
 - HTML
