@@ -21,30 +21,9 @@ In short, I’m a developer with a heart for impactful work.
 👩‍💻ྀིྀིྀིྀིྀི happy coding!
 
 ### ⚙｡･ tech toolbox ･˚˚⚙
-- JavaScript
-- CSS/SCSS
-- HTML
-- Java
-- MySQL
-- Git and GitHub version control,
-- MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- Mongoose
-- Vite.js
-- PHP
-- Laravel
-- WordPress
-- Technical Documentation
-- Delphi 2010 
-- Next.js
-- Tailwind CSS
-- TypeScript
-- Angular
-- Python
-- FastAPI
-- Docker
-- Postman
-- Apidog
-- Remix
+
+[![tech toolbox](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,sass,nodejs,express,python,fastapi,php,laravel,docker,nextjs,remix,postgres,mysql,mongodb,supabase,sqlite,prisma,vercel,netlify,git,github,postman,figma,npm,pnpm,java,eclipse,vscode,bash,wordpress,replit,jquery&perline=8)](https://skillicons.dev)
+
 
 ### ☏ྀིྀིྀིྀི・∘ let's connect ∘・☏ྀིྀིྀིྀི
 If you’d like to connect or collaborate, don’t hesitate to reach out – I’d love to network!
