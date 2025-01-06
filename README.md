@@ -44,6 +44,7 @@ In short, I’m a developer with a heart for impactful work.
 - Docker
 - Postman
 - Apidog
+- Remix
 
 ### ☏ྀིྀིྀིྀི・∘ let's connect ∘・☏ྀིྀིྀིྀི
 If you’d like to connect or collaborate, don’t hesitate to reach out – I’d love to network!
