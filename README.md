@@ -2,8 +2,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jediahjireh.visitor-badge)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jediahjireh&theme=bear&show_icons=true&hide_border=true&layout=compact)
-
 ### ｡⋅˚˚･ welcome! ･˚˚⋅｡
 
 I’m a multipotentialite with a knack for all things tech. I enjoy building – websites, crafts, ideas, self-esteem, you name it! My strong appreciation for art in all its forms has cultivated my keen eye for detail. I channel my creativity through problem-solving and have my critical thinking do the sculpting.
@@ -20,10 +18,13 @@ In short, I’m a developer with a heart for impactful work.
 
 👩‍💻ྀིྀིྀིྀིྀི happy coding!
 
+---
+
 ### ⚙｡･ tech toolbox ･˚˚⚙
 
 [![tech toolbox](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,sass,nodejs,express,python,fastapi,php,laravel,docker,nextjs,remix,postgres,mysql,mongodb,supabase,sqlite,prisma,vercel,netlify,git,github,postman,figma,npm,pnpm,java,eclipse,vscode,bash,wordpress,replit,jquery&perline=8)](https://skillicons.dev)
 
+---
 
 ### ☏ྀིྀིྀིྀི・∘ let's connect ∘・☏ྀིྀིྀིྀི
 If you’d like to connect or collaborate, don’t hesitate to reach out – I’d love to network!
