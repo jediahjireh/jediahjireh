@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1500&color=F73850&width=550&lines=%F0%9F%94%8D+Search+results+for%3A+%40jediahjireh)](https://git.io/typing-svg)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jediahjireh.visitor-badge)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jediahjireh.visitor-badge)
 
 ### ｡⋅˚˚･ welcome! ･˚˚⋅｡
 
@@ -26,7 +26,22 @@ In short, I’m a developer with a heart for impactful work.
 
 ---
 
-### ☏ྀིྀིྀིྀི・∘ let's connect ∘・☏ྀིྀིྀིྀི
+### ｡⁺⋆˚‧⭑☆｡ statistics for nerds ｡⭑‧⁺°⋆✮｡
+
+<div align="left">
+  
+  [![Jediah's Top Languages](https://github-readme-stats-jediahjireh.vercel.app/api/top-langs/?username=jediahjireh\&layout=compact&theme=transparent)](https://github.com/jediahjireh/github-readme-stats)
+
+  [![Jediah's WakaTime Statistics](https://github-readme-stats-jediahjireh.vercel.app/api/wakatime?username=jediahjireh\&layout=compact&theme=transparent)](https://github.com/jediahjireh/github-readme-stats)
+  
+  [![Jediah's GitHub Statistics](https://github-readme-stats-jediahjireh.vercel.app/api?username=jediahjireh\&rank_icon=percentile&theme=transparent)](https://github.com/jediahjireh/github-readme-stats) &nbsp;&nbsp;
+  [![Jediah's GitHub Streak Statistics](https://github-readme-streak-stats-salesp07.vercel.app/?user=jediahjireh&count_private=true&theme=transparent)](https://github.com/jediahjireh/github-readme-stats)
+
+</div>
+
+---
+
+### ☏・∘ let's connect ∘・☏ྀིྀིྀིྀི
 If you’d like to connect or collaborate, don’t hesitate to reach out – I’d love to network!
 
 🌐: [jediah.dev](https://www.jediah.dev)
@@ -34,6 +49,8 @@ If you’d like to connect or collaborate, don’t hesitate to reach out – I�
 💌: [jediahnaicker@gmail.com](mailto:jediahnaicker@gmail.com)
 
 🔗: [@jediahjireh](https://www.linkedin.com/in/jediahjireh/)
+
+---
 
 <!---
 jediahjireh/jediahjireh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
