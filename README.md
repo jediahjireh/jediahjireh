@@ -19,23 +19,27 @@ In short, I’m a developer with a heart for impactful work.
 👩‍💻ྀིྀིྀིྀིྀི happy coding!
 
 ---
-
+<div align="center">
+  
 ### ⚙｡･ tech toolbox ･˚˚⚙
 
 [![tech toolbox](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,sass,nodejs,express,python,fastapi,php,laravel,docker,nextjs,remix,postgres,mysql,mongodb,supabase,sqlite,prisma,vercel,netlify,git,github,postman,figma,npm,pnpm,java,eclipse,vscode,bash,wordpress,replit,jquery&perline=8)](https://skillicons.dev)
 
+</div>
+
 ---
 
-### ｡⁺⋆˚‧⭑☆｡ statistics for nerds ｡⭑‧⁺°⋆✮｡
+<div align="center">
 
-<div align="left">
+### ｡⁺⋆˚‧⭑☆｡ statistics for nerds ｡⭑‧⁺°⋆✮｡
   
   [![Jediah's Top Languages](https://github-readme-stats-jediahjireh.vercel.app/api/top-langs/?username=jediahjireh\&layout=compact&theme=transparent)](https://github.com/jediahjireh/github-readme-stats)
-
-  [![Jediah's WakaTime Statistics](https://github-readme-stats-jediahjireh.vercel.app/api/wakatime?username=jediahjireh\&layout=compact&theme=transparent)](https://github.com/jediahjireh/github-readme-stats)
   
-  [![Jediah's GitHub Statistics](https://github-readme-stats-jediahjireh.vercel.app/api?username=jediahjireh\&rank_icon=percentile&theme=transparent)](https://github.com/jediahjireh/github-readme-stats) &nbsp;&nbsp;
-  [![Jediah's GitHub Streak Statistics](https://github-readme-streak-stats-salesp07.vercel.app/?user=jediahjireh&count_private=true&theme=transparent)](https://github.com/jediahjireh/github-readme-stats)
+  [![Jediah's GitHub Statistics](https://github-readme-stats-jediahjireh.vercel.app/api?username=jediahjireh\&rank_icon=percentile&theme=transparent)](https://github.com/jediahjireh/github-readme-stats) 
+  
+  [![Jediah's GitHub Streak Statistics](https://github-readme-streak-stats-salesp07.vercel.app/?user=jediahjireh&count_private=true&theme=transparent)](https://github.com/jediahjireh/github-readme-stats) 
+  
+  [![Jediah's WakaTime Statistics](https://github-readme-stats-jediahjireh.vercel.app/api/wakatime?username=jediahjireh\&layout=compact&theme=transparent)](https://github.com/jediahjireh/github-readme-stats)
 
 </div>
 
