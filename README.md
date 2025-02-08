@@ -19,6 +19,18 @@ In short, I’m a developer with a heart for impactful work.
 👩‍💻ྀིྀིྀིྀིྀི happy coding!
 
 ---
+
+### ☏・∘ let's connect ∘・☏ྀིྀིྀིྀི
+If you’d like to connect or collaborate, don’t hesitate to reach out – I’d love to network!
+
+🌐: [jediah.dev](https://www.jediah.dev)
+
+💌: [jediahnaicker@gmail.com](mailto:jediahnaicker@gmail.com)
+
+🔗: [@jediahjireh](https://www.linkedin.com/in/jediahjireh/)
+
+---
+
 <div align="center">
   
 ### ⚙｡･ tech toolbox ･˚˚⚙
@@ -42,17 +54,6 @@ In short, I’m a developer with a heart for impactful work.
   [![Jediah's WakaTime Statistics](https://github-readme-stats-jediahjireh.vercel.app/api/wakatime?username=jediahjireh\&layout=compact&theme=transparent)](https://github.com/jediahjireh/github-readme-stats)
 
 </div>
-
----
-
-### ☏・∘ let's connect ∘・☏ྀིྀིྀིྀི
-If you’d like to connect or collaborate, don’t hesitate to reach out – I’d love to network!
-
-🌐: [jediah.dev](https://www.jediah.dev)
-
-💌: [jediahnaicker@gmail.com](mailto:jediahnaicker@gmail.com)
-
-🔗: [@jediahjireh](https://www.linkedin.com/in/jediahjireh/)
 
 ---
 
